@@ -9,7 +9,7 @@ high_score = 0
 
 #setting up the screen 
 window = turtle.Screen()
-window.title("Snake game by charan")
+window.title("Snake Game by Charan")
 window.bgcolor('black')
 window.setup(height=600,width=600)
 window.tracer(0)
